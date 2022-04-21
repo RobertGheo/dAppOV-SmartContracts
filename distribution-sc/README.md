@@ -1,5 +1,6 @@
-# Superciety Distribution Smart Contract
+# Distribution Smart Contract
 
-Mainnet: [erd1qqqqqqqqqqqqqpgqaqysetv6704mmktdyylzh08rtluquhpd27rsdkgh63](https://explorer.elrond.com/accounts/erd1qqqqqqqqqqqqqpgqaqysetv6704mmktdyylzh08rtluquhpd27rsdkgh63)
+## dApp Online Voting System
+A smart contract template from SuperCity DIstribution Contract updatet to the dApp Online Voting requirements.
 
-Testnet: [erd1qqqqqqqqqqqqqpgqxuumvlqxzfaxv9x0yhwwcfnf6qr9g3mr27rstmzedu](https://testnet-explorer.elrond.com/accounts/erd1qqqqqqqqqqqqqpgqxuumvlqxzfaxv9x0yhwwcfnf6qr9g3mr27rstmzedu)
+https://github.com/Superciety/distribution-sc
