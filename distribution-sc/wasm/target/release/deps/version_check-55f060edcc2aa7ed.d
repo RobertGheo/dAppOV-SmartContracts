@@ -1,0 +1,10 @@
+/home/robert/Final Project/dAppOV-SmartContracts/distribution-sc/wasm/target/release/deps/version_check-55f060edcc2aa7ed.rmeta: /home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs /home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs /home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs /home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs
+
+/home/robert/Final Project/dAppOV-SmartContracts/distribution-sc/wasm/target/release/deps/libversion_check-55f060edcc2aa7ed.rlib: /home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs /home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs /home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs /home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs
+
+/home/robert/Final Project/dAppOV-SmartContracts/distribution-sc/wasm/target/release/deps/version_check-55f060edcc2aa7ed.d: /home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs /home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs /home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs /home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs
+
+/home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs:
+/home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs:
+/home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs:
+/home/robert/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs:

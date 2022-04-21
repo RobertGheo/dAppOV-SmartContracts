@@ -1,0 +1,1 @@
+/home/robert/Final\ Project/dAppOV-SmartContracts/distribution-sc/wasm/target/wasm32-unknown-unknown/release/distribution_wasm.wasm: /home/robert/Final\ Project/dAppOV-SmartContracts/distribution-sc/src/lib.rs /home/robert/Final\ Project/dAppOV-SmartContracts/distribution-sc/wasm/src/lib.rs
